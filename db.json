@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "aloe",
+      "image": "https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-1-.jpg",
+      "price": "23",
+      "id": 8
     }
   ]
 }
